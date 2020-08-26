@@ -21,7 +21,7 @@ def assembled_matrix
     CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE
   ]
-  return produce
+produce
 end
   # Build an array that contains both of the above arrays
   # This matrix will represent a produce storage room
