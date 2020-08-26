@@ -17,21 +17,8 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  produce = [
-    ["Strawberries",
-    "Potatoes",
-    "Grapes",
-    "Avocadoes",
-    "Asparagus"
-  ],
-  [
-    "Grapefruit",
-    "Pineapple",
-    "Oranges",
-    "Watermelon",
-    "Eggplant"
-  ]
-]
+  produce = [ORGANIC_PRODUCE,
+    CONVENTIONAL_PRODUCE]
 end
 
 
