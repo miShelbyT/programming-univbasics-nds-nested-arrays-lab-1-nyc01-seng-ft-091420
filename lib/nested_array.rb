@@ -21,6 +21,7 @@ def assembled_matrix(ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE)
     ORGANIC_PRODUCE,
     CONVENTIONAL_PRODUCE
   ]
+  produce
 end
 
 
