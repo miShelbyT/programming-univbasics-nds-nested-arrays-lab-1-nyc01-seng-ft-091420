@@ -19,6 +19,7 @@ CONVENTIONAL_PRODUCE = [
 def assembled_matrix
   produce = [ORGANIC_PRODUCE,
     CONVENTIONAL_PRODUCE]
+  produce
 end
 
 
