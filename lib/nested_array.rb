@@ -17,7 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  produce = [
+  [
     CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE
     ]
