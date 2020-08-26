@@ -18,22 +18,9 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   produce = [
-    [
-      "Grapefruit",
-      "Pineapple",
-      "Oranges",
-      "Watermelon",
-      "Eggplant"
-    ],
-    [
-      "Strawberries",
-      "Potatoes",
-      "Grapes",
-      "Avocadoes",
-      "Asparagus"
+    CONVENTIONAL_PRODUCE.sort,
+    ORGANIC_PRODUCE.sort
     ]
-  ]
-produce
 end
   # Build an array that contains both of the above arrays
   # This matrix will represent a produce storage room
