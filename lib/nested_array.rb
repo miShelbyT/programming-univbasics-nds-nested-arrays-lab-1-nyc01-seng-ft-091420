@@ -17,10 +17,10 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix(ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE)
-  produce = ([
+  produce = (
     ORGANIC_PRODUCE,
     CONVENTIONAL_PRODUCE
-  ])
+  )
   produce
 end
 
