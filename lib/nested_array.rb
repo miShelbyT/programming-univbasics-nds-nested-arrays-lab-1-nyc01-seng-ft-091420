@@ -17,9 +17,10 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  produce =
+  produce = [
     CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE
+  ]
   produce
 end
   # Build an array that contains both of the above arrays
